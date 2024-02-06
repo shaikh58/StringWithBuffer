@@ -97,7 +97,7 @@ namespace ECE141 {
 
         String& replace(size_t anIndex, size_t aMaxCopyLen, const String &aString){
             this->erase(anIndex, aMaxCopyLen);
-            this->insert(anIndex, aString, 0, aString.buf.getStrSize() - 1);
+            this->insert(anIndex, aString, 0, aString.buf.getStrSize());
             return *this;
         }
 
