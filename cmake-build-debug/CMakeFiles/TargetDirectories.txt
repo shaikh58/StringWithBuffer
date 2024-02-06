@@ -1,0 +1,3 @@
+/Users/mustafa/ece141/pa2-string-shaikh58/cmake-build-debug/CMakeFiles/Assignment_2.dir
+/Users/mustafa/ece141/pa2-string-shaikh58/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mustafa/ece141/pa2-string-shaikh58/cmake-build-debug/CMakeFiles/rebuild_cache.dir
